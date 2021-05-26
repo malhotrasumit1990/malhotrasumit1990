@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sumit Malhotra
-- 👀 I’m interested in working as a Lead Software Developer. 
+- 👀 I’m currently working  as a Lead Software Developer in a reputed German MNC. 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Good development projects that will help me nurture my skills and help in Company's growth simultaneously
 - 📫 How to reach me malhotrasumit1990@gmail.com
